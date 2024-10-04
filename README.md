@@ -20,7 +20,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 ```
 git clone https://github.com/pavadik/MatchmakingService.git
 ```
-2. **Navigate to the project directory:`
+2. **Navigate to the project directory:**
 ```
 cd MatchmakingService
 ```
